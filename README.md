@@ -1,4 +1,4 @@
-### Hi there 👋
+<h1 align="center">Hola 👋, I'm Rogelio</h1>
 
 <h3 align="center">Pincipiante en el mundo TI ansioso de conseguir mi primer empleo</h3>
 
