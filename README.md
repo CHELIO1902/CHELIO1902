@@ -1,6 +1,6 @@
 <h1 align="center">Hola 👋, me llamo Rogelio</h1>
 
-<h3 align="center">Pincipiante en el mundo TI ansioso de conseguir mi primer empleo</h3>
+<h3 align="center">Apasionado por la tecnología con experiencia en Database Oracle y desarrollo web.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chelio1902&label=Profile%20views&color=0e75b6&style=flat" alt="chelio1902" /> </p>
 
